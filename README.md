@@ -1,6 +1,6 @@
 # Probabilidad de Error en PCM
 
-Este repositorio contiene una simulación en MATLAB para evaluar la probabilidad de error alcanzada por PCM (Modulación por Codificación de Pulso). El código fue desarrollado como parte de un proyecto para la asignatura de Comunicaciones Digitales.
+Este repositorio contiene una simulación en MATLAB para evaluar la probabilidad de error alcanzada por PCM (Modulación por Codificación de Pulso). El código fue desarrollado como parte de una práctica de laboratorio para la asignatura de Comunicaciones Digitales.
 
 ## Autores
 - Flores Andres
